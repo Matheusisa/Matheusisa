@@ -27,7 +27,7 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusisa&layout=compact&theme=shadow_blue" alt="Top Langs">
         </a>
     </div>
-    <h2>FRONT END SKILLS</h2>
+    <h2>🔥FRONT END SKILLS</h2>
     <div>
     <p align="center">
         <a href="https://skillicons.dev">
@@ -35,7 +35,7 @@
         </a>
     </p>
     </div>
-    <h2>BACK END SKILSS</h2>
+    <h2>🔥 BACK END SKILSS</h2>
     <div>
     <div>
     <div>
@@ -46,7 +46,7 @@
     </p>
     </div>
     </div> 
-    <h2>Redes Sociais</h2>
+    <h2>📨 Redes Sociais</h2>
         <div> 
             <p align="center">
             <a href="https://instagram.com/MATHEUSFRONTEND" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
