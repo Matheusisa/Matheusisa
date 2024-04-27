@@ -19,10 +19,10 @@
     </div>
     <div>
         <a href="https://github.com/Matheusisa/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheusisa&theme=shadow_blue&show_icons=true&hide=stars" alt="Anurag's GitHub stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheusisa&theme=yeblu&show_icons=true&hide=stars" alt="Anurag's GitHub stats">
         </a>
         <a href="https://github.com/Matheusisa/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusisa&layout=compact&theme=shadow_blue" alt="Top Langs">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusisa&layout=compact&theme=yeblu" alt="Top Langs">
         </a>
     </div>
     <h2>🔥FRONT END SKILLS</h2>
