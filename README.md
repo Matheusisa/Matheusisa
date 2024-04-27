@@ -15,7 +15,7 @@
         </a>
     </div>
     <div>
-        <p>😏 Olá! Eu sou um desenvolvedor frontend , sou estudante de Análise e desenvolvimento de sistemas, e venho aprimorando minhas habilidades tanto em Front End quanto no Back End.</p>
+        <p>😏 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Me interesso tanto por front quanto por back-end, e minhas principais linguagens são CSS e JavaScript. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!</p>
     </div>
     <div>
         <a href="https://github.com/Matheusisa/github-readme-stats">
