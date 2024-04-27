@@ -6,9 +6,9 @@
     
 </head>
 <body>
-    <div>
+    <div><img src="line bar.png" width="100%" height="8px"/>
         <img src="GIT HUB BANNER MATHEUS.png" alt="ImagemBanner">
-    </div>
+    </div><img src="line bar.png" width="100%" height="8px"/>
     <div>
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com/?lines=OLA!+Me+chamo+Matheus;Sou+desenvolvedor+Front+End" alt="Typing SVG">
@@ -16,7 +16,7 @@
     </div>
     <div>
         <p>😏 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Me interesso tanto por front quanto por back-end, e minhas principais linguagens são CSS e JavaScript. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!</p>
-    </div>
+    </div><img src="line bar.png" width="100%" height="8px"/>
     <div>
         <a href="https://github.com/Matheusisa/github-readme-stats">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheusisa&theme=yeblu&show_icons=true&hide=stars" alt="Anurag's GitHub stats">
