@@ -39,7 +39,7 @@
     <div>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=py,nodejs,azure,fastapi,git,github" alt="My Skills">
+            <img src="https://skillicons.dev/icons?i=py,nodejs,git,github" alt="My Skills">
         </a>
     </p>
     </div>
