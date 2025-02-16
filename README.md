@@ -15,7 +15,7 @@
         </a>
     </div>
     <div>
-        <p>😏 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Sou desenvolvedor Full Stack, e minhas principais linguagens são Python e JavaScript. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!</p>
+        <p>😏 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UniCesumar. Sou desenvolvedor Full Stack, e minhas principais linguagens são Python e JavaScript. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!</p>
     </div><img src="line bar.png" width="100%" height="8px"/>
     <div>
         <a href="https://github.com/Matheusisa/github-readme-stats">
