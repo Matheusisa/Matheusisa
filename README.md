@@ -11,7 +11,7 @@
     </div><img src="line bar.png" width="100%" height="8px"/>
     <div>
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com/?lines=OLA!+Me+chamo+Matheus;Sou+desenvolvedor+Full+Stack" alt="Typing SVG">
+            <img src="https://readme-typing-svg.demolab.com/?lines=Oi !+Me+chamo+Matheus;Sou+desenvolvedor+Full+Stack" alt="Typing SVG">
         </a>
     </div>
     <div>
