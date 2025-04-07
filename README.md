@@ -15,7 +15,8 @@
         </a>
     </div>
     <div>
-        <p>😏 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UniCesumar. Sou desenvolvedor Full Stack, e minhas principais linguagens são Python e JavaScript. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!</p>
+        <p>😏 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UniCesumar. Sou um desenvolvedor back end apaixonado por softwares e tecnologia. Sempre busco equilibrar diversão e profissionalismo em meus projetos. Aqui você pode conferir alguns dos trabalhos que já realizei e as habilidades que domino!</p>
+        <p>Meus projetos e aplicações buscam englobar uma alta gama de tecnologias e finalidades, utilizando stacks inteiros de desenvolvimento Back End & Front End e banco de dados relacional com SQL.</p>
     </div><img src="line bar.png" width="100%" height="8px"/>
     <div>
         <a href="https://github.com/Matheusisa/github-readme-stats">
