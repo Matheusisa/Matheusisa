@@ -7,7 +7,7 @@
 </head>
 <body>
     <div><img src="line bar.png" width="100%" height="8px"/>
-        <img src="GIT HUB BANNER MATHEUS.png" alt="ImagemBanner">
+        <img src="githubREADME.png" alt="ImagemBanner">
     </div><img src="line bar.png" width="100%" height="8px"/>
     <div>
         <a href="https://git.io/typing-svg">
