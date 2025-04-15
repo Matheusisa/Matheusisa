@@ -47,19 +47,38 @@ Sempre busco equilibrar diversão e profissionalismo em meus projetos.
 
 ## 🚀 Habilidades Técnicas
 
-### 🔥 Front End
-
+### 🎨 Front End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react" alt="Front End Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" alt="Front End Skills" />
   </a>
 </p>
 
-### 🔥 Back End
-
+### 🛠️ Back End & DevOps
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nodejs,git,github" alt="Back End Skills" />
+    <img src="https://skillicons.dev/icons?i=py,nodejs,docker,git,github,vscode" alt="Back End & DevOps Skills" />
+  </a>
+</p>
+
+### 🗃️ Bancos de Dados
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mysql" alt="Database Skills" />
+  </a>
+</p>
+
+### 🤖 Dados, Automação & IA
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,powershell" alt="Automation Tools" />
+  </a>
+</p>
+
+### ☁️ Cloud & Ferramentas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp" alt="Cloud Skills" />
   </a>
 </p>
 
